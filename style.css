@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.body{
+    background-color: red;
+}
+.btn{
+    padding: 8rem;
+    background: linear-gradient(black, 97%, grey);
+    border-radius: 50%;
+    color: white;
+}
+
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 40rem;
+}
+
+.footer{
+    color: white;
+}
